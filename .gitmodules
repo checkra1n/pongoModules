@@ -1,0 +1,4 @@
+[submodule "svc_stalker/svc_stalker"]
+	path = svc_stalker/svc_stalker
+	url = https://github.com/jsherman212/svc_stalker
+	branch = master
